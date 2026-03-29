@@ -1,6 +1,6 @@
 💱 SBS Exchange Rate Extractor (USD/PEN)
 
-Just a notebook with an API-interaction based Python code to extract exchange rate (USD/PEN) from the [**Superintendencia de Banca, Seguros y AFP (SBS) of Peru**](https://www.sbs.gob.pe/estadisticas/tipo-de-cambio)
+Just a notebook with an API-interaction based Python code to extract exchange rate (USD/PEN) from the [**Superintendencia de Banca, Seguros y AFP (SBS) of Peru**](https://www.sbs.gob.pe/app/stats/tc-cv-historico.asp)
 
 🚀 Why this project?
 
