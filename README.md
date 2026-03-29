@@ -1,2 +1,2 @@
-# TipodeCambio_SBS
-Un código de Webscraping simple para descargar data de tipo de cambio de la SBS
+# TipodeCambio SBS
+Just a notebook with an API-interaction based Python code to extract exchange rate (USD/PEN) from the Peruvian government official site ()
